@@ -1,2 +1,4 @@
 Christian Alejandro
 Chico López
+java c++
+GIT, Mercurial
