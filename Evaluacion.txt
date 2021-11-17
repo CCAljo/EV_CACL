@@ -1,4 +1,6 @@
 Christian Alejandro
 Chico López
+0996721748
 java c++
 GIT, Mercurial
+>>>>>>> develop
